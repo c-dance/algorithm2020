@@ -24,7 +24,7 @@ import java.io.*;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class Deque{
+public class Deque_bj10866{
     public static void main(final String[] args) throws NumberFormatException, IOException {
 
         final Deque<Integer> deq = new ArrayDeque<>();

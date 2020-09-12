@@ -17,7 +17,7 @@ import java.io.*;
 import java.util.Deque;
 import java.util.ArrayDeque;
 
-public class josephus_backjoon1158{
+public class josephus_bj1158{
 
     public static void main(String[] args) throws IOException{
 
